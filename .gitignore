@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project data and cache
+data/
+cache/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.pyd
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
