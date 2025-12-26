@@ -12,7 +12,9 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Project data and cache
-data/
+data/features/
+data/map_data/
+data/trajectory_data/
 cache/
 
 # VS Code
